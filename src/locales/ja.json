@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "home": {
+      "title": "EXOTIC JAPAN 合同会社 | 日本と世界をつなぐ",
+      "description": "EXOTIC JAPAN 合同会社は、品質の高い商品・サービス、国際ビジネス、飲食、ホスピタリティ、自動車関連事業を通じて、日本と世界をつなぎます。"
+    },
+    "about": {
+      "title": "私たちについて | EXOTIC JAPAN 合同会社",
+      "description": "EXOTIC JAPAN 合同会社の使命、価値観、そして安心・品質・誠実を大切にし、日本と世界をつなぐ取り組みについてご紹介します。"
+    },
+    "business": {
+      "title": "事業内容 | EXOTIC JAPAN 合同会社",
+      "description": "EXOTIC JAPANの事業内容をご紹介します。飲食・レストラン、ハラールフード、国際ビジネス、自動車関連事業など、多様な分野で事業を展開しています。"
+    },
+    "sisterConcerns": {
+      "title": "関連事業 | EXOTIC JAPAN 合同会社",
+      "description": "EXOTIC JAPANの関連事業をご紹介します。NOBABI RESTAURANT、NODA HALAL FOOD、RAINBOW INTERNATIONAL、SUZUKI AUTOMOBILES。"
+    },
+    "philosophy": {
+      "title": "企業理念 | EXOTIC JAPAN 合同会社",
+      "description": "EXOTIC JAPAN 合同会社の企業理念 — 企業成長を超えて、信頼・品質・つながりを大切にする経営を実践しています。"
+    },
+    "contact": {
+      "title": "お問い合わせ | EXOTIC JAPAN 合同会社",
+      "description": "EXOTIC JAPAN 合同会社へのお問い合わせはこちら。お客様、ビジネスパートナー、新たな可能性をお探しの皆様からのご連絡をお待ちしております。"
+    }
+  },
+  "nav": {
+    "home": "ホーム",
+    "about": "私たちについて",
+    "business": "事業内容",
+    "sisterConcerns": "関連事業",
+    "philosophy": "企業理念",
+    "contact": "お問い合わせ",
+    "contactUs": "お問い合わせ"
+  },
+  "hero": {
+    "label": "EXOTIC JAPAN 合同会社",
+    "title": "日本と世界を",
+    "titleLine2": "つなぐ。",
+    "subtitle": "安心・品質・誠実",
+    "description": "日本と世界、人と人、地域とビジネスをつなぎ、価値あるつながりを創造します。",
+    "ctaPrimary": "EXOTIC JAPANについて",
+    "ctaSecondary": "事業内容",
+    "scroll": "スクロール"
+  },
+  "intro": {
+    "label": "EXOTIC JAPANについて",
+    "title": "ビジネスを超えて。",
+    "titleLine2": "私たちは「つながり」を築きます。",
+    "paragraph1": "EXOTIC JAPAN 合同会社は、優れた商品とサービスを通じて、お客様の暮らしやビジネスに貢献することを目指して設立されました。お客様、地域社会、そしてビジネスパートナーの皆様との信頼関係を大切にし、長く続く価値あるつながりを築いてまいります。",
+    "paragraph2": "変化の激しい市場とお客様のニーズを的確に把握し、「安心・品質・誠実」を基本理念として、すべての業務に強い責任感を持って取り組んでいます。"
+  },
+  "coreValues": {
+    "label": "価値観",
+    "title": "私たちの価値観",
+    "items": [
+      {
+        "number": "01",
+        "title": "安心",
+        "description": "お客様に安心してご利用いただける商品とサービスを提供します。"
+      },
+      {
+        "number": "02",
+        "title": "品質",
+        "description": "すべての事業において、高い品質基準を追求します。"
+      },
+      {
+        "number": "03",
+        "title": "誠実",
+        "description": "誠実さと責任を大切にし、信頼される関係を築きます。"
+      }
+    ]
+  },
+  "japanWorld": {
+    "label": "グローバル",
+    "title": "日本 × 世界",
+    "description": "私たちは、日本と世界とのつながりを大切にしています。多様な文化、価値観、考え方を尊重しながら、新たなビジネスの可能性を追求してまいります。"
+  },
+  "businesses": {
+    "label": "事業領域",
+    "title": "事業内容",
+    "subtitle": "多様な事業。一つの卓越性へのコミットメント。",
+    "items": [
+      {
+        "title": "飲食・レストラン",
+        "description": "質の高い食とおもてなしを通じて、人と人とのつながりを創造します。"
+      },
+      {
+        "title": "ハラールフード",
+        "description": "多様な文化やライフスタイルを尊重し、安心・品質にこだわったハラール食品・商品を提供します。"
+      },
+      {
+        "title": "国際ビジネス",
+        "description": "日本と海外市場をつなぎ、新たなビジネス機会を創出します。"
+      },
+      {
+        "title": "自動車関連事業",
+        "description": "自動車を通じて、人々の移動と暮らしを支えます。"
+      }
+    ],
+    "explore": "詳しく見る",
+    "futureBusiness": "新規事業",
+    "futureDescription": "新たな機会と成長市場を常に探索し、事業の可能性を広げています。"
+  },
+  "sisterConcerns": {
+    "label": "グループ企業",
+    "title": "関連事業",
+    "subtitle": "多様な事業を通じて、共に成長する。",
+    "explore": "詳しく見る",
+    "items": [
+      {
+        "number": "01",
+        "name": "NOBABI RESTAURANT",
+        "category": "飲食・ホスピタリティ",
+        "description": "卓越した料理と温かいおもてなしを通じて、人々をつなぐレストラン。"
+      },
+      {
+        "number": "02",
+        "name": "NODA HALAL FOOD",
+        "category": "ハラール食品・商品",
+        "description": "多様な文化と食の要件を尊重した、品質の高いハラール食品・商品。"
+      },
+      {
+        "number": "03",
+        "name": "RAINBOW INTERNATIONAL",
+        "category": "国際ビジネス",
+        "description": "日本と世界の市場をつなぐ、戦略的な国際ビジネスパートナーシップ。"
+      },
+      {
+        "number": "04",
+        "name": "SUZUKI AUTOMOBILES",
+        "category": "自動車関連事業",
+        "description": "自動車を通じて、移動とコミュニティを支えるサービス。"
+      }
+    ]
+  },
+  "philosophy": {
+    "label": "理念",
+    "title": "私たちの理念",
+    "quote": "私たちは、単なる企業成長だけを追い求めません。",
+    "statement": "お客様、ビジネスパートナー、地域社会、そして共に働く仲間の皆様に、「EXOTIC JAPANと関わってよかった」と思っていただける企業であることを大切にします。",
+    "keywords": ["信頼", "品質", "誠実", "つながり"]
+  },
+  "vision": {
+    "label": "ビジョン",
+    "title": "これからの未来へ。",
+    "description": "時代の変化を恐れず、これからも新たな挑戦を続けてまいります。そして、皆様にとって必要とされ、長く信頼される企業へと成長していくことを目指します。",
+    "concept": "伝統",
+    "conceptSub": "革新"
+  },
+  "why": {
+    "label": "強み",
+    "title": "EXOTIC JAPANが選ばれる理由",
+    "items": [
+      {
+        "number": "01",
+        "title": "信頼される関係",
+        "description": "お客様やパートナーとの長期的な信頼関係を築きます。"
+      },
+      {
+        "number": "02",
+        "title": "品質第一",
+        "description": "すべての事業において、高い品質基準を維持します。"
+      },
+      {
+        "number": "03",
+        "title": "グローバルな視点",
+        "description": "日本と多様な文化、国際市場をつなぎます。"
+      },
+      {
+        "number": "04",
+        "title": "継続的な挑戦",
+        "description": "変化を恐れず、新たな機会を創造し続けます。"
+      }
+    ]
+  },
+  "contactCta": {
+    "title": "ともに、新しい価値を創りませんか。",
+    "description": "お客様、ビジネスパートナー、新たな可能性をお探しの皆様からのお問い合わせを心よりお待ちしております。",
+    "primary": "お問い合わせ",
+    "secondary": "事業内容を見る"
+  },
+  "about": {
+    "label": "私たちについて",
+    "title": "EXOTIC JAPANについて",
+    "subtitle": "大切なつながりを築く。",
+    "mission": {
+      "title": "私たちの使命",
+      "content": "EXOTIC JAPAN 合同会社は、優れた商品とサービスを通じて、お客様の暮らしやビジネスに貢献することを目指して設立されました。お客様、地域社会、そしてビジネスパートナーの皆様との信頼関係を大切にしています。"
+    },
+    "approach": {
+      "title": "私たちのアプローチ",
+      "content": "変化の激しい市場とお客様のニーズを的確に把握し、安心・品質・誠実を基本理念として、すべての業務に強い責任感を持って取り組んでいます。"
+    },
+    "global": {
+      "title": "グローバルなつながり",
+      "content": "日本と世界とのつながりを大切にし、多様な文化と価値観を尊重しながら、双方のコミュニティに利益をもたらす新たなビジネスの可能性を積極的に追求しています。"
+    }
+  },
+  "businessPage": {
+    "label": "事業内容",
+    "title": "事業内容",
+    "subtitle": "多様な事業。一つの卓越性へのコミットメント。",
+    "intro": "EXOTIC JAPANは、品質、信頼、そして意味のあるつながりへのコミットメントによって統一された、複数の分野で事業を展開しています。ホスピタリティと食から国際貿易、モビリティまで、人とコミュニティに奉仕する事業を築いています。"
+  },
+  "sisterConcernsPage": {
+    "label": "関連事業",
+    "title": "関連事業",
+    "subtitle": "多様な事業を通じて、共に成長する。",
+    "intro": "関連事業は、EXOTIC JAPANの多様な事業領域を代表しています。それぞれが独立して卓越性を発揮しながら、信頼・品質・誠実という共通の価値観を共有しています。"
+  },
+  "philosophyPage": {
+    "label": "企業理念",
+    "title": "私たちの理念",
+    "intro": "EXOTIC JAPANでは、企業理念がすべての意思決定を導きます。お客様、パートナー、コミュニティ、仲間にとって誇れる企業であり、持続的な価値を創造することを目指しています。",
+    "principles": [
+      {
+        "title": "成長を超えて",
+        "content": "私たちは、単なる企業成長だけを追い求めません。お客様、ビジネスパートナー、地域社会、そして共に働く仲間の皆様に、「EXOTIC JAPANと関わってよかった」と思っていただける企業であることを大切にします。"
+      },
+      {
+        "title": "信頼と誠実",
+        "content": "すべての関係は、誠実さ、責任、透明性に基づいています。信頼は与えられるものではなく、一貫した行動を通じて築かれるものです。"
+      },
+      {
+        "title": "品質へのコミットメント",
+        "content": "提供するすべての商品とサービスにおいて高い基準を追求し、私たちを信頼する方々の期待に応えます。"
+      },
+      {
+        "title": "変化を受け入れる",
+        "content": "時代の変化を恐れず、これからも新たな挑戦を続け、皆様にとって必要とされ、長く信頼される企業へと成長していきます。"
+      }
+    ]
+  },
+  "contact": {
+    "label": "お問い合わせ",
+    "title": "お問い合わせ",
+    "subtitle": "お気軽にご連絡ください。",
+    "description": "お客様、ビジネスパートナー、新たな可能性をお探しの皆様からのお問い合わせを心よりお待ちしております。",
+    "form": {
+      "name": "お名前",
+      "email": "メールアドレス",
+      "company": "会社名（任意）",
+      "subject": "件名",
+      "message": "お問い合わせ内容",
+      "submit": "送信する",
+      "sending": "送信中...",
+      "success": "お問い合わせありがとうございます。折り返しご連絡いたします。"
+    },
+    "info": {
+      "title": "会社情報",
+      "company": "EXOTIC JAPAN 合同会社",
+      "companyEn": "EXOTIC JAPAN LLC",
+      "address": "〒000-0000 東京都〇〇区〇〇 0-0-0",
+      "phone": "+81 (0)0-0000-0000",
+      "email": "info@exoticjapan.co.jp",
+      "hours": "営業時間",
+      "hoursValue": "月曜日〜金曜日 9:00〜18:00（JST）"
+    }
+  },
+  "footer": {
+    "tagline": "日本と世界をつなぐ。",
+    "company": "EXOTIC JAPAN 合同会社",
+    "companyEn": "EXOTIC JAPAN LLC",
+    "companyInfo": "会社概要",
+    "privacy": "プライバシーポリシー",
+    "contact": "お問い合わせ",
+    "address": "〒000-0000 東京都〇〇区〇〇 0-0-0",
+    "phone": "+81 (0)0-0000-0000",
+    "email": "info@exoticjapan.co.jp",
+    "hours": "営業時間",
+    "hoursValue": "月〜金 9:00〜18:00（JST）",
+    "copyright": "© 2026 EXOTIC JAPAN 合同会社 All Rights Reserved."
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "home": {
+      "title": "EXOTIC JAPAN 合同会社 | Connecting Japan with the World",
+      "description": "EXOTIC JAPAN LLC connects Japan with the world through quality products, services, international business, food, hospitality, and automobile-related businesses."
+    },
+    "about": {
+      "title": "About Us | EXOTIC JAPAN LLC",
+      "description": "Learn about EXOTIC JAPAN LLC — our mission, values, and commitment to connecting Japan with the world through trust, quality, and integrity."
+    },
+    "business": {
+      "title": "Our Businesses | EXOTIC JAPAN LLC",
+      "description": "Explore EXOTIC JAPAN's diverse business portfolio including food & restaurant, halal food, international business, and automobile services."
+    },
+    "sisterConcerns": {
+      "title": "Sister Concerns | EXOTIC JAPAN LLC",
+      "description": "Discover EXOTIC JAPAN's sister companies: Nobabi Restaurant, Noda Halal Food, Rainbow International, and Suzuki Automobiles."
+    },
+    "philosophy": {
+      "title": "Our Philosophy | EXOTIC JAPAN LLC",
+      "description": "EXOTIC JAPAN's corporate philosophy — building trust, quality, and meaningful connections beyond corporate growth."
+    },
+    "contact": {
+      "title": "Contact Us | EXOTIC JAPAN LLC",
+      "description": "Get in touch with EXOTIC JAPAN LLC. We welcome inquiries from customers, business partners, and those exploring new opportunities."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "business": "Business",
+    "sisterConcerns": "Sister Concerns",
+    "philosophy": "Philosophy",
+    "contact": "Contact",
+    "contactUs": "Contact Us"
+  },
+  "hero": {
+    "label": "EXOTIC JAPAN LLC",
+    "title": "Connecting Japan",
+    "titleLine2": "with the World.",
+    "subtitle": "Trust. Quality. Integrity.",
+    "description": "Creating meaningful connections between Japan, people, communities, and businesses around the world.",
+    "ctaPrimary": "Discover EXOTIC JAPAN",
+    "ctaSecondary": "Our Businesses",
+    "scroll": "Scroll"
+  },
+  "intro": {
+    "label": "About EXOTIC JAPAN",
+    "title": "More Than Business.",
+    "titleLine2": "We Build Connections.",
+    "paragraph1": "EXOTIC JAPAN LLC was established with the aim of contributing to your lives and businesses by providing superior products and services, all while cherishing the trust we build with our customers, the local community, and our business partners.",
+    "paragraph2": "We strive to accurately grasp the ever-changing market and customer needs. Guided by our core principles of \"peace of mind, quality, and integrity,\" we approach every task with a strong sense of responsibility."
+  },
+  "coreValues": {
+    "label": "Values",
+    "title": "Our Core Values",
+    "items": [
+      {
+        "number": "01",
+        "title": "Peace of Mind",
+        "description": "Providing products and services that customers can rely on with confidence."
+      },
+      {
+        "number": "02",
+        "title": "Quality",
+        "description": "Pursuing high standards in everything we deliver."
+      },
+      {
+        "number": "03",
+        "title": "Integrity",
+        "description": "Building relationships through honesty, responsibility, and trust."
+      }
+    ]
+  },
+  "japanWorld": {
+    "label": "Global Reach",
+    "title": "Japan × The World",
+    "description": "We value the connections between Japan and the rest of the world. By embracing diverse cultures, perspectives, and values, we actively pursue new business possibilities."
+  },
+  "businesses": {
+    "label": "Portfolio",
+    "title": "Our Businesses",
+    "subtitle": "Diverse businesses. One commitment to excellence.",
+    "items": [
+      {
+        "title": "Food & Restaurant",
+        "description": "Connecting people through quality food and hospitality."
+      },
+      {
+        "title": "Halal Food",
+        "description": "Providing quality halal food and products while respecting diverse cultures and lifestyles."
+      },
+      {
+        "title": "International Business",
+        "description": "Creating opportunities between Japan and international markets."
+      },
+      {
+        "title": "Automobile",
+        "description": "Supporting mobility and connecting people through automobile-related business."
+      }
+    ],
+    "explore": "Explore",
+    "futureBusiness": "Future Businesses",
+    "futureDescription": "Continuously exploring new opportunities and emerging markets."
+  },
+  "sisterConcerns": {
+    "label": "Group Companies",
+    "title": "Our Sister Concerns",
+    "subtitle": "Growing together through diverse businesses.",
+    "explore": "Explore",
+    "items": [
+      {
+        "number": "01",
+        "name": "NOBABI RESTAURANT",
+        "category": "Food & Hospitality",
+        "description": "A restaurant dedicated to bringing people together through exceptional cuisine and warm hospitality."
+      },
+      {
+        "number": "02",
+        "name": "NODA HALAL FOOD",
+        "category": "Halal Food & Products",
+        "description": "Quality halal food and products that respect diverse cultures and dietary requirements."
+      },
+      {
+        "number": "03",
+        "name": "RAINBOW INTERNATIONAL",
+        "category": "International Business",
+        "description": "Bridging Japan and global markets through strategic international business partnerships."
+      },
+      {
+        "number": "04",
+        "name": "SUZUKI AUTOMOBILES",
+        "category": "Automobile Business",
+        "description": "Supporting mobility and connecting communities through automobile-related services."
+      }
+    ]
+  },
+  "philosophy": {
+    "label": "Philosophy",
+    "title": "Our Philosophy",
+    "quote": "We do not simply pursue corporate growth.",
+    "statement": "We prioritize being a company that makes our customers, partners, local community, and colleagues feel glad that they worked with EXOTIC JAPAN.",
+    "keywords": ["Trust", "Quality", "Integrity", "Connection"]
+  },
+  "vision": {
+    "label": "Vision",
+    "title": "Looking Ahead.",
+    "description": "Moving forward, we will continue to take on new challenges without fearing the changing times, striving to grow into a company that is essential to everyone and earns long-lasting trust.",
+    "concept": "Tradition",
+    "conceptSub": "Innovation"
+  },
+  "why": {
+    "label": "Strengths",
+    "title": "Why EXOTIC JAPAN",
+    "items": [
+      {
+        "number": "01",
+        "title": "Trusted Relationships",
+        "description": "Building long-term relationships with customers and partners."
+      },
+      {
+        "number": "02",
+        "title": "Quality First",
+        "description": "Maintaining high standards across every business."
+      },
+      {
+        "number": "03",
+        "title": "Global Perspective",
+        "description": "Connecting Japan with diverse cultures and international markets."
+      },
+      {
+        "number": "04",
+        "title": "Continuous Challenge",
+        "description": "Embracing change and creating new opportunities."
+      }
+    ]
+  },
+  "contactCta": {
+    "title": "Let's Build Something Meaningful Together.",
+    "description": "Whether you are a customer, business partner, or someone looking to explore new opportunities, we would be pleased to connect with you.",
+    "primary": "Contact EXOTIC JAPAN",
+    "secondary": "Explore Our Businesses"
+  },
+  "about": {
+    "label": "About Us",
+    "title": "About EXOTIC JAPAN",
+    "subtitle": "Building connections that matter.",
+    "mission": {
+      "title": "Our Mission",
+      "content": "EXOTIC JAPAN LLC was established with the aim of contributing to your lives and businesses by providing superior products and services, all while cherishing the trust we build with our customers, the local community, and our business partners."
+    },
+    "approach": {
+      "title": "Our Approach",
+      "content": "We strive to accurately grasp the ever-changing market and customer needs. Guided by our core principles of peace of mind, quality, and integrity, we approach every task with a strong sense of responsibility."
+    },
+    "global": {
+      "title": "Global Connections",
+      "content": "We value the connections between Japan and the rest of the world. By embracing diverse cultures and values, we actively pursue new business possibilities that benefit communities on both sides."
+    }
+  },
+  "businessPage": {
+    "label": "Business",
+    "title": "Our Businesses",
+    "subtitle": "Diverse businesses. One commitment to excellence.",
+    "intro": "EXOTIC JAPAN operates across multiple sectors, each united by our commitment to quality, trust, and meaningful connections. From hospitality and food to international trade and mobility, we build businesses that serve people and communities."
+  },
+  "sisterConcernsPage": {
+    "label": "Sister Concerns",
+    "title": "Our Sister Concerns",
+    "subtitle": "Growing together through diverse businesses.",
+    "intro": "Our sister companies represent the diverse reach of EXOTIC JAPAN — each operating with independence and excellence while sharing our core values of trust, quality, and integrity."
+  },
+  "philosophyPage": {
+    "label": "Philosophy",
+    "title": "Our Philosophy",
+    "intro": "At EXOTIC JAPAN, our philosophy guides every decision we make. We believe in building a company that people are proud to work with — one that creates lasting value for customers, partners, communities, and colleagues.",
+    "principles": [
+      {
+        "title": "Beyond Growth",
+        "content": "We do not simply pursue corporate growth. We prioritize being a company that makes our customers, partners, local community, and colleagues feel glad that they worked with EXOTIC JAPAN."
+      },
+      {
+        "title": "Trust & Integrity",
+        "content": "Every relationship we build is founded on honesty, responsibility, and transparency. Trust is not given — it is earned through consistent action."
+      },
+      {
+        "title": "Quality Commitment",
+        "content": "We pursue high standards in everything we deliver, ensuring that our products and services meet the expectations of those who depend on us."
+      },
+      {
+        "title": "Embracing Change",
+        "content": "Moving forward, we will continue to take on new challenges without fearing the changing times, striving to grow into a company that is essential to everyone."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you.",
+    "description": "Whether you are a customer, business partner, or someone looking to explore new opportunities, we would be pleased to connect with you.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company (Optional)",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you for your message. We will get back to you shortly."
+    },
+    "info": {
+      "title": "Company Information",
+      "company": "EXOTIC JAPAN 合同会社",
+      "companyEn": "EXOTIC JAPAN LLC",
+      "address": "〒000-0000 東京都〇〇区〇〇 0-0-0",
+      "phone": "+81 (0)0-0000-0000",
+      "email": "info@exoticjapan.co.jp",
+      "hours": "Business Hours",
+      "hoursValue": "Monday – Friday, 9:00 AM – 6:00 PM (JST)"
+    }
+  },
+  "footer": {
+    "tagline": "Connecting Japan with the World.",
+    "company": "EXOTIC JAPAN 合同会社",
+    "companyEn": "EXOTIC JAPAN LLC",
+    "companyInfo": "Company Information",
+    "privacy": "Privacy Policy",
+    "contact": "Contact",
+    "address": "〒000-0000 東京都〇〇区〇〇 0-0-0",
+    "phone": "+81 (0)0-0000-0000",
+    "email": "info@exoticjapan.co.jp",
+    "hours": "Business Hours",
+    "hoursValue": "Mon – Fri, 9:00 – 18:00 (JST)",
+    "copyright": "© 2026 EXOTIC JAPAN LLC. All Rights Reserved."
+  }
+}
