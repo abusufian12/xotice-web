@@ -21,3 +21,1164 @@ Rather than simply chasing corporate growth, we prioritize being a company that 
 Moving forward, we will continue to take on new challenges without fearing the changing times, striving to grow into a company that is essential to everyone and earns long-lasting trust.
 
 We sincerely ask for your continued support and patronage of EXOTIC JAPAN LLC."
+
+
+Prompt-1 :
+
+"# Build a Premium Modern Corporate Website for EXOTIC JAPAN 合同会社
+
+Create a **beautiful, modern, premium, trustworthy corporate website** for:
+
+**Company Name:** EXOTIC JAPAN 合同会社
+**English Name:** EXOTIC JAPAN LLC
+
+The website should feel like a **high-end Japanese international business company** — clean, elegant, professional, modern, culturally sophisticated, and trustworthy.
+
+Do NOT make it look like a generic template or a small local business website.
+
+---
+
+## 1. Brand Positioning
+
+EXOTIC JAPAN connects **Japan with the world** through business, products, services, food, automobiles, and international relationships.
+
+The website should communicate:
+
+* Trust
+* Quality
+* Integrity
+* Japanese professionalism
+* International business
+* Cultural diversity
+* Reliability
+* Modern entrepreneurship
+* Long-term relationships
+* Community contribution
+
+The visual identity should combine:
+
+**Japanese minimalism + international modern business + premium corporate design.**
+
+---
+
+# 2. Overall Design Direction
+
+Use a sophisticated visual style inspired by modern Japanese corporate websites.
+
+### Design keywords
+
+* Minimal
+* Elegant
+* Premium
+* Modern
+* Clean
+* Spacious
+* Professional
+* International
+* Japanese
+* Sophisticated
+* High-end
+
+Avoid:
+
+* Cheap-looking gradients
+* Excessive animations
+* Too many colors
+* Cartoonish graphics
+* Generic stock-template appearance
+* Overcrowded sections
+* Excessive rounded cards
+* Huge amounts of text
+* Old-fashioned corporate design
+
+---
+
+# 3. Color Palette
+
+Use a refined Japanese-inspired palette:
+
+### Primary
+
+Deep charcoal / almost black
+
+### Secondary
+
+Warm off-white / ivory
+
+### Accent
+
+Subtle Japanese red
+
+### Supporting
+
+Muted gold / bronze
+
+The red should be used sparingly for emphasis.
+
+Overall appearance should remain elegant and premium.
+
+---
+
+# 4. Typography
+
+Use a combination of:
+
+* Modern Japanese sans-serif
+* Elegant English sans-serif
+
+Possible fonts:
+
+* Noto Sans JP
+* Inter
+* Plus Jakarta Sans
+* Manrope
+
+Use strong typography hierarchy.
+
+Large editorial-style headings should be used throughout the website.
+
+Example:
+
+**Connecting Japan
+with the World.**
+
+Small Japanese/English labels can be used above headings.
+
+---
+
+# 5. Website Structure
+
+Create the following pages:
+
+1. Home
+2. About Us
+3. Business
+4. Sister Concerns
+5. Philosophy
+6. Contact
+
+Navigation should be simple and elegant.
+
+Header:
+
+**EXOTIC JAPAN**
+
+Navigation:
+
+* Home
+* About
+* Business
+* Sister Concerns
+* Philosophy
+* Contact
+
+Add a prominent:
+
+**Contact Us**
+
+button.
+
+---
+
+# 6. HERO SECTION
+
+Create a visually stunning full-screen hero section.
+
+Use a high-quality image/video background related to:
+
+* Japan
+* Tokyo/Japan cityscape
+* International business
+* Japanese architecture
+* International people/business
+* Japanese transportation
+* Global connections
+
+The background should have a dark elegant overlay.
+
+Main heading:
+
+**Connecting Japan
+with the World.**
+
+Subheading:
+
+**Trust. Quality. Integrity.**
+
+Supporting text:
+
+> Creating meaningful connections between Japan, people, communities, and businesses around the world.
+
+Buttons:
+
+**Discover EXOTIC JAPAN**
+
+**Our Businesses**
+
+Add subtle scroll-down animation.
+
+---
+
+# 7. INTRODUCTION SECTION
+
+Create an elegant split-layout section.
+
+Left side:
+
+Large typography:
+
+**More Than Business.
+We Build Connections.**
+
+Right side:
+
+Use this company message, professionally formatted:
+
+> EXOTIC JAPAN LLC was established with the aim of contributing to your lives and businesses by providing superior products and services, all while cherishing the trust we build with our customers, the local community, and our business partners.
+
+Continue with:
+
+> We strive to accurately grasp the ever-changing market and customer needs. Guided by our core principles of “peace of mind, quality, and integrity,” we approach every task with a strong sense of responsibility.
+
+Use a subtle Japanese-inspired visual element in the background.
+
+---
+
+# 8. CORE VALUES
+
+Create a premium 3-column or horizontal section.
+
+Title:
+
+**Our Core Values**
+
+Three values:
+
+### 01 — Peace of Mind
+
+Providing products and services that customers can rely on with confidence.
+
+### 02 — Quality
+
+Pursuing high standards in everything we deliver.
+
+### 03 — Integrity
+
+Building relationships through honesty, responsibility, and trust.
+
+Use elegant icons or minimalist line illustrations.
+
+---
+
+# 9. JAPAN × WORLD SECTION
+
+Create a visually impressive section emphasizing international connections.
+
+Heading:
+
+**Japan × The World**
+
+Text:
+
+> We value the connections between Japan and the rest of the world. By embracing diverse cultures, perspectives, and values, we actively pursue new business possibilities.
+
+Visual idea:
+
+A sophisticated world map / Japan-to-world connection animation.
+
+Show subtle connection lines from Japan to different parts of the world.
+
+Do NOT make it look like a technology startup.
+
+It should feel like an established international trading/business company.
+
+---
+
+# 10. BUSINESS SECTION
+
+Create a premium business overview.
+
+Heading:
+
+**Our Businesses**
+
+Subtitle:
+
+**Diverse businesses. One commitment to excellence.**
+
+Create elegant visual cards/sections for the company's business areas.
+
+Suggested categories:
+
+### Food & Restaurant
+
+Connecting people through quality food and hospitality.
+
+### Halal Food
+
+Providing quality halal food and products while respecting diverse cultures and lifestyles.
+
+### International Business
+
+Creating opportunities between Japan and international markets.
+
+### Automobile
+
+Supporting mobility and connecting people through automobile-related business.
+
+### Future Businesses
+
+Continuously exploring new opportunities and emerging markets.
+
+Use large images and minimal text.
+
+Cards should have sophisticated hover interactions.
+
+---
+
+# 11. SISTER CONCERNS
+
+Create a beautiful dedicated section titled:
+
+**Our Sister Concerns**
+
+Subtitle:
+
+**Growing together through diverse businesses.**
+
+Display the four businesses:
+
+### 01
+
+**NOBABI RESTAURANT**
+
+Food & Hospitality
+
+### 02
+
+**NODA HALAL FOOD**
+
+Halal Food & Products
+
+### 03
+
+**RAINBOW INTERNATIONAL**
+
+International Business
+
+### 04
+
+**SUZUKI AUTOMOBILES**
+
+Automobile Business
+
+Each should have:
+
+* Large visual/image
+* Business name
+* Short description
+* Explore button
+* Elegant hover animation
+
+If actual logos are provided later, make the design ready to display them.
+
+---
+
+# 12. COMPANY PHILOSOPHY
+
+Create a powerful editorial-style section.
+
+Large heading:
+
+**Our Philosophy**
+
+Main statement:
+
+> We do not simply pursue corporate growth.
+
+Then:
+
+> We prioritize being a company that makes our customers, partners, local community, and colleagues feel glad that they worked with EXOTIC JAPAN.
+
+Highlight the words:
+
+**Trust**
+
+**Quality**
+
+**Integrity**
+
+**Connection**
+
+Use oversized typography and generous whitespace.
+
+---
+
+# 13. FUTURE / VISION SECTION
+
+Create a visually powerful dark section.
+
+Heading:
+
+**Looking Ahead.**
+
+Text:
+
+> Moving forward, we will continue to take on new challenges without fearing the changing times, striving to grow into a company that is essential to everyone and earns long-lasting trust.
+
+Add a subtle animated Japanese-inspired visual.
+
+Possible visual:
+
+A slowly moving horizon / Japanese city / road / sunrise.
+
+Concept:
+
+**Tradition × Innovation**
+
+---
+
+# 14. WHY EXOTIC JAPAN
+
+Create a section with 4 strengths:
+
+### Trusted Relationships
+
+Building long-term relationships with customers and partners.
+
+### Quality First
+
+Maintaining high standards across every business.
+
+### Global Perspective
+
+Connecting Japan with diverse cultures and international markets.
+
+### Continuous Challenge
+
+Embracing change and creating new opportunities.
+
+Use elegant numbered layouts instead of generic icon cards.
+
+---
+
+# 15. CONTACT CTA
+
+Create a strong final call-to-action.
+
+Heading:
+
+**Let's Build Something Meaningful Together.**
+
+Text:
+
+> Whether you are a customer, business partner, or someone looking to explore new opportunities, we would be pleased to connect with you.
+
+Button:
+
+**Contact EXOTIC JAPAN**
+
+Secondary:
+
+**Explore Our Businesses**
+
+Use a beautiful background image with a subtle dark overlay.
+
+---
+
+# 16. FOOTER
+
+Premium minimal footer.
+
+Display:
+
+**EXOTIC JAPAN 合同会社**
+**EXOTIC JAPAN LLC**
+
+Tagline:
+
+**Connecting Japan with the World.**
+
+Navigation:
+
+* Home
+* About
+* Business
+* Sister Concerns
+* Philosophy
+* Contact
+
+Include:
+
+* Company information
+* Address
+* Phone
+* Email
+* Business hours
+
+Use placeholders if the actual information has not been provided.
+
+Copyright:
+
+**© 2026 EXOTIC JAPAN LLC. All Rights Reserved.**
+
+---
+
+# 17. ANIMATIONS
+
+Animations should be subtle and premium.
+
+Use:
+
+* Smooth page transitions
+* Fade-up animations
+* Image reveal animations
+* Text reveal
+* Parallax images
+* Elegant hover effects
+* Smooth scrolling
+* Navigation transition
+* Number animation where appropriate
+
+Avoid excessive animation.
+
+The website must remain fast.
+
+---
+
+# 18. IMAGE DIRECTION
+
+Use premium photography.
+
+Preferred imagery:
+
+* Japan cityscape
+* Tokyo skyline
+* Japanese architecture
+* Japanese streets
+* International business meetings
+* Diverse people
+* Restaurant/hospitality
+* Halal food
+* Automobiles
+* Japan + international travel/business
+* Modern Japanese lifestyle
+
+Images should look authentic and premium.
+
+Avoid obvious cheap stock photos.
+
+Use consistent image treatment across the site.
+
+---
+
+# 19. JAPANESE DESIGN ELEMENTS
+
+Subtly incorporate Japanese visual concepts:
+
+* Ma (間) — meaningful negative space
+* Minimalism
+* Simple geometric patterns
+* Subtle Japanese grid
+* Very light Seigaiha-inspired patterns
+* Elegant red accent
+* Thin lines
+* Editorial typography
+
+Do not overuse traditional Japanese decoration.
+
+The result should be:
+
+**Modern Japan, not traditional Japan.**
+
+---
+
+# 20. RESPONSIVE DESIGN
+
+The website MUST be fully responsive.
+
+Desktop:
+
+* Premium wide layouts
+* Large typography
+* Large photography
+
+Tablet:
+
+* Adapt layouts naturally
+
+Mobile:
+
+* Clean hamburger menu
+* Large readable typography
+* Proper spacing
+* Touch-friendly buttons
+* Optimized images
+* No horizontal scrolling
+
+Test:
+
+* 1440px
+* 1280px
+* 1024px
+* 768px
+* 430px
+* 390px
+* 375px
+
+---
+
+# 21. PERFORMANCE
+
+Prioritize:
+
+* Fast loading
+* Optimized images
+* Lazy loading
+* Responsive images
+* Minimal JavaScript
+* Smooth but lightweight animations
+* SEO-friendly HTML
+
+Target excellent Lighthouse scores.
+
+---
+
+# 22. SEO
+
+Create proper:
+
+* Page titles
+* Meta descriptions
+* Open Graph metadata
+* Semantic HTML
+* Heading hierarchy
+* Image alt text
+* Organization structured data
+
+Suggested homepage title:
+
+**EXOTIC JAPAN 合同会社 | Connecting Japan with the World**
+
+Suggested meta description:
+
+**EXOTIC JAPAN LLC connects Japan with the world through quality products, services, international business, food, hospitality, and automobile-related businesses.**
+
+---
+
+# 23. LANGUAGE
+
+The website should be prepared for:
+
+**English + Japanese**
+
+Primary language can be English initially.
+
+Add a language switcher:
+
+**EN | JP**
+
+The design should support Japanese typography naturally.
+
+Do not simply translate text automatically in the UI; structure the website so proper Japanese content can be added later.
+
+---
+
+# 24. TECHNICAL REQUIREMENTS
+
+Build the website using a modern production-ready stack.
+
+Preferred:
+
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* Lucide icons
+
+Use reusable components.
+
+Recommended component structure:
+
+* Header
+* Hero
+* SectionHeading
+* ValueSection
+* BusinessCard
+* SisterConcernCard
+* PhilosophySection
+* CTA
+* Footer
+
+Keep the code clean, modular, maintainable, and production-ready.
+
+---
+
+# 25. IMPORTANT DESIGN REQUIREMENT
+
+The website must NOT look AI-generated.
+
+It should look like a website designed by a **professional Japanese branding/design agency**.
+
+Focus heavily on:
+
+* Typography
+* Spacing
+* Photography
+* Visual hierarchy
+* Composition
+* Subtle animation
+* Premium interactions
+
+Every section should feel intentional.
+
+Use fewer elements but make each element visually strong.
+
+---
+
+# 26. FINAL CREATIVE DIRECTION
+
+Imagine the website as a combination of:
+
+**Japanese corporate sophistication
+
+* International business
+* Premium hospitality
+* Modern editorial design**
+
+The final emotional impression should be:
+
+> “This is a trustworthy, established, modern Japanese company with international ambitions.”
+
+When visitors enter the homepage, they should immediately understand:
+
+**EXOTIC JAPAN connects Japan, people, businesses, and the world.**
+
+Build the complete website, not just a landing-page mockup.
+
+Make it visually impressive enough to be used as the company's official corporate website.
+"
+
+
+prompt-2:
+
+"# BILINGUAL WEBSITE — ENGLISH + JAPANESE
+
+The entire website MUST support **two languages**:
+
+* 🇬🇧 English (EN)
+* 🇯🇵 Japanese (JP / 日本語)
+
+Both languages must have complete, professionally written content.
+
+## Language Switcher
+
+Place a highly visible but elegant language switcher in the header:
+
+**EN | JP**
+
+or
+
+**English | 日本語**
+
+On desktop:
+
+* Place it in the top/right area of the navigation.
+
+On mobile:
+
+* Include it inside the mobile navigation menu.
+
+The current language must be visually highlighted.
+
+---
+
+## Language Behavior
+
+Default language:
+
+**English**
+
+When the user selects Japanese:
+
+* Change ALL website text to Japanese.
+* Do not reload the entire application unnecessarily.
+* Preserve the current page/section.
+* Keep navigation and UI elements translated.
+* Update page metadata and SEO information.
+* Support browser language detection if appropriate.
+
+When Japanese is selected, the URL structure should preferably be:
+
+**English**
+`/en/...`
+
+**Japanese**
+`/ja/...`
+
+Example:
+
+`/en/`
+`/ja/`
+
+`/en/about`
+`/ja/about`
+
+`/en/business`
+`/ja/business`
+
+`/en/contact`
+`/ja/contact`
+
+---
+
+# JAPANESE CONTENT
+
+Do NOT use literal machine translation.
+
+Japanese content should sound natural and professional for a Japanese company.
+
+Use formal Japanese corporate language (ビジネス日本語).
+
+Company name:
+
+**EXOTIC JAPAN 合同会社**
+
+English:
+
+**EXOTIC JAPAN LLC**
+
+---
+
+## Homepage
+
+### English
+
+**Connecting Japan with the World.**
+
+**Trust. Quality. Integrity.**
+
+> Creating meaningful connections between Japan, people, communities, and businesses around the world.
+
+### Japanese
+
+**日本と世界をつなぐ。**
+
+**安心・品質・誠実**
+
+> 日本と世界、人と人、地域とビジネスをつなぎ、価値あるつながりを創造します。
+
+---
+
+# ABOUT SECTION
+
+### English
+
+**More Than Business.
+We Build Connections.**
+
+EXOTIC JAPAN LLC was established with the aim of contributing to your lives and businesses by providing superior products and services, while cherishing the trust we build with our customers, local communities, and business partners.
+
+### Japanese
+
+**ビジネスを超えて。
+私たちは「つながり」を築きます。**
+
+EXOTIC JAPAN 合同会社は、優れた商品とサービスを通じて、お客様の暮らしやビジネスに貢献することを目指して設立されました。
+
+お客様、地域社会、そしてビジネスパートナーの皆様との信頼関係を大切にし、長く続く価値あるつながりを築いてまいります。
+
+---
+
+# CORE VALUES
+
+### English
+
+**Our Core Values**
+
+**Peace of Mind**
+Providing products and services that customers can rely on with confidence.
+
+**Quality**
+Pursuing high standards in everything we deliver.
+
+**Integrity**
+Building relationships through honesty, responsibility, and trust.
+
+### Japanese
+
+**私たちの価値観**
+
+**安心**
+お客様に安心してご利用いただける商品とサービスを提供します。
+
+**品質**
+すべての事業において、高い品質基準を追求します。
+
+**誠実**
+誠実さと責任を大切にし、信頼される関係を築きます。
+
+---
+
+# JAPAN × WORLD
+
+### English
+
+**Japan × The World**
+
+We value the connections between Japan and the rest of the world. By embracing diverse cultures, perspectives, and values, we actively pursue new business possibilities.
+
+### Japanese
+
+**日本 × 世界**
+
+私たちは、日本と世界とのつながりを大切にしています。
+
+多様な文化、価値観、考え方を尊重しながら、新たなビジネスの可能性を追求してまいります。
+
+---
+
+# OUR BUSINESSES
+
+### English
+
+**Our Businesses**
+
+**Food & Restaurant**
+Connecting people through quality food and hospitality.
+
+**Halal Food**
+Providing quality halal food and products while respecting diverse cultures and lifestyles.
+
+**International Business**
+Creating opportunities between Japan and international markets.
+
+**Automobile**
+Supporting mobility and connecting people through automobile-related business.
+
+### Japanese
+
+**事業内容**
+
+**飲食・レストラン**
+質の高い食とおもてなしを通じて、人と人とのつながりを創造します。
+
+**ハラールフード**
+多様な文化やライフスタイルを尊重し、安心・品質にこだわったハラール食品・商品を提供します。
+
+**国際ビジネス**
+日本と海外市場をつなぎ、新たなビジネス機会を創出します。
+
+**自動車関連事業**
+自動車を通じて、人々の移動と暮らしを支えます。
+
+---
+
+# SISTER CONCERNS
+
+### English
+
+**Our Sister Concerns**
+
+1. **NOBABI RESTAURANT**
+   Food & Hospitality
+
+2. **NODA HALAL FOOD**
+   Halal Food & Products
+
+3. **RAINBOW INTERNATIONAL**
+   International Business
+
+4. **SUZUKI AUTOMOBILES**
+   Automobile Business
+
+### Japanese
+
+**関連事業**
+
+1. **NOBABI RESTAURANT**
+   飲食・ホスピタリティ
+
+2. **NODA HALAL FOOD**
+   ハラール食品・商品
+
+3. **RAINBOW INTERNATIONAL**
+   国際ビジネス
+
+4. **SUZUKI AUTOMOBILES**
+   自動車関連事業
+
+---
+
+# PHILOSOPHY
+
+### English
+
+**Our Philosophy**
+
+> We do not simply pursue corporate growth.
+
+We prioritize being a company that makes our customers, partners, local community, and colleagues feel glad that they worked with EXOTIC JAPAN.
+
+### Japanese
+
+**私たちの理念**
+
+> 私たちは、単なる企業成長だけを追い求めません。
+
+お客様、ビジネスパートナー、地域社会、そして共に働く仲間の皆様に、
+
+**「EXOTIC JAPANと関わってよかった」**
+
+と思っていただける企業であることを大切にします。
+
+---
+
+# VISION
+
+### English
+
+**Looking Ahead.**
+
+Moving forward, we will continue to take on new challenges without fearing the changing times, striving to grow into a company that is essential to everyone and earns long-lasting trust.
+
+### Japanese
+
+**これからの未来へ。**
+
+時代の変化を恐れず、これからも新たな挑戦を続けてまいります。
+
+そして、皆様にとって必要とされ、長く信頼される企業へと成長していくことを目指します。
+
+---
+
+# CONTACT CTA
+
+### English
+
+**Let's Build Something Meaningful Together.**
+
+Whether you are a customer, business partner, or someone looking to explore new opportunities, we would be pleased to connect with you.
+
+**Contact Us**
+
+### Japanese
+
+**ともに、新しい価値を創りませんか。**
+
+お客様、ビジネスパートナー、新たな可能性をお探しの皆様からのお問い合わせを心よりお待ちしております。
+
+**お問い合わせ**
+
+---
+
+# NAVIGATION
+
+English:
+
+* Home
+* About
+* Business
+* Sister Concerns
+* Philosophy
+* Contact
+
+Japanese:
+
+* ホーム
+* 私たちについて
+* 事業内容
+* 関連事業
+* 企業理念
+* お問い合わせ
+
+---
+
+# FOOTER
+
+English:
+
+**EXOTIC JAPAN LLC**
+Connecting Japan with the World.
+
+Japanese:
+
+**EXOTIC JAPAN 合同会社**
+日本と世界をつなぐ。
+
+Include:
+
+* Company Information / 会社概要
+* Privacy Policy / プライバシーポリシー
+* Contact / お問い合わせ
+
+---
+
+# IMPORTANT IMPLEMENTATION REQUIREMENT
+
+Do NOT hard-code English and Japanese text directly throughout React components.
+
+Use a proper internationalization (i18n) architecture.
+
+For example:
+
+`locales/en.json`
+
+`locales/ja.json`
+
+or an equivalent professional i18n system.
+
+All UI text, navigation, buttons, headings, descriptions, metadata, validation messages, and page content must come from the translation system.
+
+The architecture must make it easy to add additional languages in the future.
+
+---
+
+# SEO REQUIREMENT
+
+Each language must have its own SEO metadata.
+
+English:
+
+**EXOTIC JAPAN 合同会社 | Connecting Japan with the World**
+
+Japanese:
+
+**EXOTIC JAPAN 合同会社 | 日本と世界をつなぐ**
+
+Implement:
+
+* `hreflang`
+* language-specific title
+* language-specific description
+* Open Graph metadata
+* canonical URLs
+* language-specific sitemap URLs where appropriate
+
+---
+
+# FINAL REQUIREMENT
+
+The English and Japanese versions must look **equally polished**.
+
+Do not make Japanese an afterthought.
+
+Pay special attention to:
+
+* Japanese line breaks
+* Japanese typography
+* Font sizing
+* Letter spacing
+* Vertical rhythm
+* Button widths
+* Navigation spacing
+* Mobile layouts
+
+The Japanese version should feel like it was originally designed for a Japanese corporate audience, not translated from English.
+
+The final website should provide a seamless:
+
+**EN ⇄ 日本語**
+
+experience throughout the entire website.
+"
